@@ -1,4 +1,4 @@
-The Docker image **onlyoffice/documentserver** is an official containerized version of the **ONLYOFFICE Document Server**, a powerful online office suite for document editing and collaboration. It includes editors for **text documents, spreadsheets, and presentations**, offering compatibility with popular formats like **DOCX, XLSX, and PPTX**. 
+ **The onlyoffice/documentserver** is an official containerized version of the **ONLYOFFICE Document Server**, a powerful online office suite for document editing and collaboration. It includes editors for **text documents, spreadsheets, and presentations**, offering compatibility with popular formats like **DOCX, XLSX, and PPTX**. 
 
 ### **Key Features:**
 1. **Real-time Collaboration:** Multiple users can collaborate on documents simultaneously.
